@@ -42,6 +42,6 @@
 	"minimumCoreVersion": "0.7.9",
 	"compatibleCoreVersion": "0.7.9",
     "url": "https://github.com/TikaelSol/PF2e-Animal-Companions",
-    "manifest": "https://raw.githubusercontent.com/TikaelSol/PF2e-Animal-Companions/master/module.json",
-    "download": "https://raw.githubusercontent.com/TikaelSol/PF2e-Animal-Companions/master/module.zip"
+    "manifest": "https://raw.githubusercontent.com/TikaelSol/PF2e-Animal-Companions-Legacy/master/module.json",
+    "download": "https://raw.githubusercontent.com/TikaelSol/PF2e-Animal-Companions-Legacy/master/module.zip"
 }
