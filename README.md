@@ -2,7 +2,7 @@ This module is for people who do not want the behind the scenes manner of abilit
 
 # PF2e-Animal-Companions-Legacy
 
-Install this module by pasting this link: https://raw.githubusercontent.com/TikaelSol/PF2e-Animal-Companions/main/module.json
+Install this module by pasting this link: https://raw.githubusercontent.com/TikaelSol/PF2e-Animal-Companions-Legacy/main/module.json
 
 into the install module dialog on the Foundry Add-on Module tab.
 
