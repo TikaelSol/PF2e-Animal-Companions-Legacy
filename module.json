@@ -1,6 +1,6 @@
 {
-    "name": "pf2e-animal-companions",
-    "title": "PF2e Animal Companion Compendia",
+    "name": "pf2e-animal-companions-legacy",
+    "title": "PF2e Animal Companion Compendia Legacy version",
     "description": "Compendia containing a class, ancestries, actions, and feats to support PF2e animal companions",
     "version": "1.1",
     "author": "Tikael",
@@ -11,7 +11,7 @@
       "name": "AC-Ancestries-and-Class",
       "path": "./packs/ac-ancestries-and-class.db",
       "system": "pf2e",
-      "package": "pf2e-animal-companions"
+      "package": "pf2e-animal-companions-legacy"
     },
     {
       "label": "AC Feats",
@@ -19,7 +19,7 @@
       "name": "AC-Feats",
       "path": "./packs/ac-feats.db",
       "system": "pf2e",
-      "package": "pf2e-animal-companions"
+      "package": "pf2e-animal-companions-legacy"
     },
     {
       "label": "AC Advanced Maneuvers",
@@ -27,7 +27,7 @@
       "name": "AC-Advanced-Maneuvers",
       "path": "./packs/ac-advanced-maneuvers.db",
       "system": "pf2e",
-      "package": "pf2e-animal-companions"
+      "package": "pf2e-animal-companions-legacy"
     },
     {
       "label": "AC Features",
@@ -35,7 +35,7 @@
       "name": "AC-Features",
       "path": "./packs/ac-features.db",
       "system": "pf2e",
-      "package": "pf2e-animal-companions"
+      "package": "pf2e-animal-companions-legacy"
     }
   ],
     "systems": ["pf2e"],
