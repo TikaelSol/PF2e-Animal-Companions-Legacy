@@ -1,4 +1,4 @@
-This module is for people who do not want the behind the scenes manner of ability score and proficiency settings done in the main module available here: https://github.com/TikaelSol/PF2e-Animal-Companions
+This module is for people who do not want the behind the scenes manner of ability score and proficiency setting done in the main module available here: https://github.com/TikaelSol/PF2e-Animal-Companions
 
 # PF2e-Animal-Companions-Legacy
 
