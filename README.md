@@ -18,4 +18,4 @@ An Animal Companion specific sheet is in the works for the PF2e system, but unti
 
 
 # Known Issues
-- Right now ruele elements set the size of the animal companion, but this does not work to automate the size changes of the companions that can start at medium or large.  I am looking into active effects that can handle this but since size is not stored in a numeric value in the data structure the few companions that start larger than small may have to have their size adjusted manually.
+- Right now rule elements set the size of the animal companion, but this does not work to automate the size changes of the companions that can start at medium or large.  I am looking into active effects that can handle this but since size is not stored in a numeric value in the data structure the few companions that start larger than small may have to have their size adjusted manually.
